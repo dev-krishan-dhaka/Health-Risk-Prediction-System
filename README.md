@@ -1,4 +1,4 @@
-### 🩺 Health Risk Prediction System (Diabetes)
+# 🩺 Health Risk Prediction System (Diabetes)
 
 A Data Science & Machine Learning web application that predicts a patient’s diabetes risk level (Low / Medium / High) based on health parameters.
 The system uses Logistic Regression, stores patient records in an SQL (SQLite) database, and provides an interactive Streamlit dashboard for predictions and analytics.
@@ -46,7 +46,7 @@ Libraries:
     Deployment: Streamlit
 
 ## 📁 Project Structure
-`health_risk_prediction/
+``health_risk_prediction/
 │
 ├── app/
 │   ├── __init__.py
@@ -64,7 +64,7 @@ Libraries:
 ├── streamlit_app.py        # Streamlit web application
 ├── requirements.txt
 ├── README.md
-└── health_risk.db          # SQLite database (auto-created)`
+└── health_risk.db          # SQLite database (auto-created)``
 
 ## 📊 Dataset
 Dataset: Diabetes dataset (e.g., Pima Indians Diabetes Dataset)
